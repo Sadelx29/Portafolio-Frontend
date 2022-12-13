@@ -6,6 +6,7 @@ const Contact = () => {
   return (
    <>
     <Header/>
+    <h1>SOY CONTACT</h1>
     <Footer/>
    </>
    

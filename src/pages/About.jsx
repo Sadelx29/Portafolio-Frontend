@@ -8,6 +8,7 @@ const About = () => {
     <>
     <div>
       <Header/>
+      <h1>SOY ABOUT</h1>
       <Footer/>
       </div>
     </>
