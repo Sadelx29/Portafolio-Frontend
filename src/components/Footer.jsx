@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
     <>
-      <footer class="text-center lg:text-left bg-gray-100 text-gray-600">
+      <footer class="text-center lg:text-left bg-gray-100 text-gray-600 " >
   
   <div class="mx-6 py-10 text-center md:text-left">
     <div class="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
